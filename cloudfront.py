@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # coding=utf-8
-# python2.7 only
+# python3.8 only
 
 import threading
 import requests
